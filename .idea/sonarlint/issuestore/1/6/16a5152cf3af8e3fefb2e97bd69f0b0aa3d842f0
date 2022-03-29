@@ -1,0 +1,8 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºÒôøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷£şö
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°£ÔØ
+s
+java:S1192"QDefine a constant instead of duplicating this literal "ë§Œì›ì…ë‹ˆë‹¤." 3 times.(ºÒôøÿÿÿÿ8‰’—Çø/
+v
+java:S1192"TDefine a constant instead of duplicating this literal "ê³„ì¢Œì˜ ì”ê³ ëŠ”" 3 times.(ºÒôøÿÿÿÿ8‰’—Çø/

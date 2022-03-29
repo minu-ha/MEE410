@@ -1,0 +1,8 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ğàñˆúÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(½ÕÙœ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(úõÎÉûÿÿÿÿ
+a
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¯Å‹w
+g
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¹™ìÁùÿÿÿÿ

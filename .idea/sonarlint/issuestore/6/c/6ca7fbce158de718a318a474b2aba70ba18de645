@@ -1,0 +1,9 @@
+
+l
+java:S4276
+"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(æ½í„
+Q	java:S125	"<This block of commented-out lines of code should be removed.(¨‹Œæ
+E
+java:S1611
+"/Remove the parentheses around the "i" parameter(æ½í„
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³µ¨¬
